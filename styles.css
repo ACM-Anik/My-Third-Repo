@@ -1,0 +1,11 @@
+header{
+    color: black;
+    background-color: rgb(193, 206, 206);
+    text-align: center;
+    padding: 0 1px;
+    text: radius 10px;
+}
+text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    text border:0 10px ;
